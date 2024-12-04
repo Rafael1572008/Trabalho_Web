@@ -28,7 +28,7 @@
 # Tecnologias utilizadas
 <! Lembra da API >
 
-# [Pessoas Desenvolvedoras do Projeto
+# Pessoas Desenvolvedoras do Projeto
 <! Sara, Kaio, Hideki >
 
 # Conclusão
