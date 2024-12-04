@@ -18,3 +18,18 @@
 
 # Descrição do Projeto
  <! Descrição >
+
+# Status do Projeto
+<! Status >
+
+# Funcionalidades e Demonstração da Aplicação
+<! Funcionalidades >
+
+# Tecnologias utilizadas
+<! Lembra da API >
+
+# [Pessoas Desenvolvedoras do Projeto
+<! Sara, Kaio, Hideki >
+
+# Conclusão
+<! Conclusão >
