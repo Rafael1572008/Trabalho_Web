@@ -16,4 +16,4 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
-# Descrição do Projeto(#descrição-do-projeto)
+# Descrição do Projeto
